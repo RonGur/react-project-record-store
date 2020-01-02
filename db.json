@@ -1,0 +1,115 @@
+{
+  "users": [
+    {
+      "username": "admin",
+      "password": "admin"
+    }
+  ],
+  "activityLog": [
+    {
+      "username": "admin",
+      "timestamp": "9/3/2019, 5:12:14 PM",
+      "activity": "Added AM - Arctic Monkeys to cart"
+    },
+    {
+      "username": "admin",
+      "timestamp": "9/3/2019, 5:12:19 PM",
+      "activity": "Added Pet Sounds - The Beach Boys to cart"
+    },
+    {
+      "username": "admin",
+      "timestamp": "9/3/2019, 5:12:20 PM",
+      "activity": "Added Dookie - Green Day to cart"
+    },
+    {
+      "username": "admin",
+      "timestamp": "9/3/2019, 5:12:20 PM",
+      "activity": "Added Dookie - Green Day to cart"
+    },
+    {
+      "username": "admin",
+      "timestamp": "9/3/2019, 5:12:48 PM",
+      "activity": "Added AM - Arctic Monkeys to cart"
+    },
+    {
+      "username": "admin",
+      "timestamp": "9/3/2019, 5:12:49 PM",
+      "activity": "Added Costello Music - The Fratellis to cart"
+    },
+    {
+      "username": "admin",
+      "timestamp": "9/3/2019, 5:12:49 PM",
+      "activity": "Added Costello Music - The Fratellis to cart"
+    },
+    {
+      "username": "admin",
+      "timestamp": "9/3/2019, 5:12:50 PM",
+      "activity": "Added Comedown Machine - The Strokes to cart"
+    },
+    {
+      "username": "admin",
+      "timestamp": "9/3/2019, 5:13:24 PM",
+      "activity": "Added AM - Arctic Monkeys to cart"
+    },
+    {
+      "username": "admin",
+      "timestamp": "9/3/2019, 5:13:24 PM",
+      "activity": "Added Abbey Road - The Beatles to cart"
+    },
+    {
+      "username": "admin",
+      "timestamp": "9/3/2019, 5:13:27 PM",
+      "activity": "Removed all AM - Arctic Monkeys items in cart"
+    },
+    {
+      "username": "admin",
+      "timestamp": "9/3/2019, 5:13:29 PM",
+      "activity": "Removed all Abbey Road - The Beatles items in cart"
+    },
+    {
+      "username": "admin",
+      "timestamp": "9/3/2019, 5:14:00 PM",
+      "activity": "Added AM - Arctic Monkeys to cart"
+    },
+    {
+      "username": "admin",
+      "timestamp": "9/3/2019, 5:14:00 PM",
+      "activity": "Added Abbey Road - The Beatles to cart"
+    },
+    {
+      "username": "admin",
+      "timestamp": "9/3/2019, 5:14:13 PM",
+      "activity": "Removed all AM - Arctic Monkeys items in cart"
+    },
+    {
+      "username": "admin",
+      "timestamp": "9/3/2019, 5:14:14 PM",
+      "activity": "Removed all Abbey Road - The Beatles items in cart"
+    },
+    {
+      "username": "admin",
+      "timestamp": "9/3/2019, 5:14:18 PM",
+      "activity": "Added Comedown Machine - The Strokes to cart"
+    },
+    {
+      "username": "admin",
+      "timestamp": "9/3/2019, 5:14:25 PM",
+      "activity": "Cart purchased!"
+    },
+    {
+      "username": "admin",
+      "timestamp": "9/3/2019, 5:30:08 PM",
+      "activity": "Added AM - Arctic Monkeys to cart"
+    },
+    {
+      "username": "admin",
+      "timestamp": "9/3/2019, 5:30:09 PM",
+      "activity": "Added Abbey Road - The Beatles to cart"
+    },
+    {
+      "username": "admin",
+      "timestamp": "9/3/2019, 5:30:10 PM",
+      "activity": "Added Abbey Road - The Beatles to cart"
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "products":[
+    {
+      "id" : 1,
+      "title": "Narrow Stairs",
+      "artist": "Death Cab for Cutie",
+      "price": 15,
+      "cover": "album_cover-dcfc.jpg",
+      "youtube": "https://youtu.be/Vss_DUeTAd0",
+      "spotify": "https://open.spotify.com/album/7G84Q2FcA43cjLeWBSIedv",
+      "apple": "https://music.apple.com/us/album/narrow-stairs/967446215"
+    },
+    {
+      "id" : 2,
+      "title": "AM",
+      "artist": "Arctic Monkeys",
+      "cover": "album_cover-Arctic.jpg",
+      "price": 13,
+      "youtube":"https://www.youtube.com/playlist?list=PLOkPWZS9Q7ECOreiaeGJZ_dA8KlCtsvHN",
+      "spotify":"https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu",
+      "apple":"https://music.apple.com/us/album/am/663097964"
+
+    },
+    {
+      "id" : 3,
+      "title": "Abbey Road",
+      "artist": "The Beatles",
+      "price": 22,
+      "cover": "album_cover-Beatles.jpg",
+      "youtube":"https://www.youtube.com/playlist?list=PLzTW6ph_i-KSrrX3uV16fJxyGLQrAJAYB",
+      "spotify":"https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN",
+      "apple":"https://music.apple.com/us/album/abbey-road-remastered/1441164426"
+    },
+    {
+      "id" : 4,
+      "title": "They Want My Soul",
+      "artist": "Arctic Monkeys",
+      "cover": "album_cover-Spoon.jpg",
+      "price": 17,
+      "youtube:":"https://youtu.be/BCOKmu3lZN0",
+      "spotify":"https://open.spotify.com/album/6Z7Sn7tpFrSqguZs3cowY5",
+      "apple":"https://music.apple.com/us/album/they-want-my-soul/1440859888"
+    },
+    {
+      "id" : 5,
+      "title": "Costello Music",
+      "artist": "The Fratellis",
+      "cover": "album_cover-Fratellis.jpg",
+      "price": 11,
+      "youtube":"https://www.youtube.com/playlist?list=PLNSs0I8J3s7EBwn7PABvapFqqQ4EOQ_1F",
+      "spotify":"https://open.spotify.com/album/7mZh4xOrvqLmW30UIZm3X6",
+      "apple":"https://music.apple.com/gb/album/costello-music/1440782897"
+    },
+    {
+      "id" : 6,
+      "title": "Comedown Machine",
+      "artist": "The Strokes",
+      "cover": "album_cover-Strokes.jpg",
+      "price": 14,
+      "youtube":"https://www.youtube.com/playlist?list=PL6qczfT01sRg523XRY1bvUHYd9Ax95kt3",
+      "spotify":"https://open.spotify.com/album/4WnkQO4xD9ljQooB3VIxCV",
+      "apple":"https://music.apple.com/us/album/comedown-machine/601140186"
+    },
+    {
+      "id" : 7,
+      "title": "Glitterbug",
+      "artist": "The Wombats",
+      "price": 12,
+      "cover": "album_cover-Wombats.jpg",
+      "youtube":"https://youtu.be/qsiueB-2u0U",
+      "spotify":"https://open.spotify.com/album/0XOseclZGO4NnaBz5Shjxp",
+      "apple":"https://music.apple.com/gb/album/glitterbug/952363107"
+    },
+    {
+      "id" : 8,
+      "title": "Pet Sounds",
+      "artist": "The Beach Boys",
+      "cover": "album_cover-BeachBoys.jpg",
+      "price": 18,
+      "youtube":"https://www.youtube.com/playlist?list=PLj5TmO4kroQH4XM8P3JavV0p7Gtnno1E2",
+      "spotify":"https://open.spotify.com/album/42oBdomfxF0DbKKMEqrnQW",
+      "apple":"https://music.apple.com/us/album/pet-sounds-50th-anniversary-deluxe-edition/1440850596"
+    },
+    {
+      "id" : 9,
+      "title": "Set Yourself on Fire",
+      "artist": "Stars",
+      "cover": "album_cover-Stars.jpg",
+      "price": 13,
+      "youtube":"https://youtu.be/Ujp9ztHnBEw",
+      "spotify":"https://open.spotify.com/album/7yMj4j66GYb00KkKHC7hAR",
+      "apple":"https://music.apple.com/us/album/set-yourself-on-fire/1442859173"
+    },
+    {
+      "id" : 10,
+      "title": "Shcmilco",
+      "artist": "Wilco",
+      "cover": "album_cover-Wilco.jpg",
+      "price": 16,
+      "youtube":"https://www.youtube.com/playlist?list=PLLWq1N9a7WIqThXPqVvZS7gQXdZFAve_d",
+      "spotify":"https://open.spotify.com/album/2s037WsNDbSTIEb7OJjT0a",
+      "apple":"https://itunes.apple.com/jp/album/schmilco/1131561462?l=en"
+    },
+    {
+      "id" : 11,
+      "title": "Let's Rock",
+      "artist": "The Black Keys",
+      "cover": "album_cover-BlackKeys.jpg",
+      "price": 11,
+      "youtube":"https://www.youtube.com/playlist?list=PLddSkUxmPEC8D-pk0FiojMbPMutYQj4V7",
+      "spotify":"https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg",
+      "apple":"https://music.apple.com/us/album/lets-rock/1459700588"
+    },
+    {
+      "id" : 12,
+      "title": "Dookie",
+      "artist": "Green Day",
+      "cover": "album_cover-Dookie.jpg",
+      "price": 13,
+      "youtube":"https://www.youtube.com/playlist?list=PL4WCBK9HW5lo5C60hOQcL-MpPn0o-cn91",
+      "spotify":"https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6",
+      "apple":"https://music.apple.com/us/album/dookie/1160081985"
+    }
+  ]
+}

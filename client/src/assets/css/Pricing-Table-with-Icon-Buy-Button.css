@@ -1,0 +1,90 @@
+h1, h2, h3, h4, h5, h6 {
+  color: #4e4e4e;
+  font-family: "Open Sans";
+  font-weight: 600;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #4e4e4e;
+  font-family: "Open Sans";
+  font-weight: 600;
+}
+
+.price {
+  font-size: 32px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #4e4e4e;
+  font-family: "Open Sans";
+  font-weight: 600;
+}
+
+.button {
+  background: #3D4C53;
+  margin: 20px auto;
+  width: 200px;
+  height: 50px;
+  overflow: hidden;
+  font-weight: 600;
+  text-align: center;
+  transition: .2s;
+  cursor: pointer;
+  border-radius: 3px;
+  box-shadow: 0px 1px 2px rgba(0,0,0,.2);
+}
+
+.btnText {
+  color: white;
+  transition: .3s;
+  text-transform: uppercase;
+  font-family: 'Open Sans';
+}
+
+.btnText2 {
+  margin-top: 63px;
+  margin-right: -120px;
+  color: #FFF;
+  font-family: 'Raleway';
+}
+
+.button:hover .btnTwo {
+  left: -130px;
+}
+
+.button:hover .btnText {
+  margin-left: 65px;
+}
+
+.button:active {
+  box-shadow: 0px 5px 6px rgba(0,0,0,0.3);
+}
+
+.btnTwo {
+  position: relative;
+  width: 165px;
+  height: 100px;
+  margin-top: -100px;
+  padding-top: 3px;
+  background: #0072c6;
+  left: -250px;
+  transition: .3s;
+}
+
+p {
+  margin: 15px;
+}
+
+h4 {
+  font-family: 'Raleway';
+  color: #e24f43;
+  font-weight: 400;
+  margin-top: 0;
+}
+
+.h1, h1 {
+  font-family: 'Droid Serif';
+  font-weight: 700;
+  margin: 0;
+}
+
